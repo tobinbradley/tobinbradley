@@ -1,7 +1,7 @@
 ## Hi, I'm Tobin 👋
-### I work with computers
+### I work with computers.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tobinbradley" alt="tobinbradley" /> </p>
+
 
 - 📝 I regulary write articles on [http://fuzzytolerance.info/](http://fuzzytolerance.info/)
 
