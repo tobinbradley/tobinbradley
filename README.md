@@ -1,4 +1,4 @@
-<img align="right" src="img/drawing.svg" alt="how did i end up outside?" width="350px">
+<img align="right" src="drawing.svg" alt="how did i end up outside?" width="350px">
 
 ## Hi, I'm Tobin 👋
 
