@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/tobinbradley/tobinbradley/master/img/drawing.svg" alt="how did i end up outside?" width="300px">
-
 ## Hi, I'm Tobin 👋
+
+<img align="right" src="https://raw.githubusercontent.com/tobinbradley/tobinbradley/master/img/drawing.svg" alt="how did i end up outside?" width="300px">
 
 I’m a writer, designer, developer and speaker. I work for Mecklenburg County GIS in North Carolina USA, where I do a bit of everything, from sysadmin and database admin to software design and development to strategic planning and architecture. My most popular Github projects are [Dirt](https://github.com/tobinbradley/dirt-simple-postgis-http-api), a Node.js API for interacting with PostgreSQL/PostGIS, and [GeoPortal](https://github.com/tobinbradley/Mecklenburg-County-GeoPortal), an easy to use local government mapping and data portal.
 
