@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://codepen.io/tobinbradley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="tobinbradley" height="20" width="20" /></a>
 <a href="https://twitter.com/fuzzytolerance" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fuzzytolerance" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/users/tobin-bradley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tobin-bradley" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/6431118" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="tobin-bradley" height="20" width="20" /></a>
 <a href="https://www.youtube.com/c/tobinbradley" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tobinbradley" height="20" width="20" /></a>
 </p>
 
